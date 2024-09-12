@@ -5,7 +5,7 @@
 
 🌟Let's collaborate and bring exciting ideas to life!
 
-## Projects
+## 👩‍💻Projects
 
 - [Stella AI](https://stella.vrushalitambat.com/) - *Next.js, React.js, TypeScript, Open AI, Clerk, Neon, Stripe*
   - Built a SaaS platform for AI-powered chatbots to improve real-time communication between businesses and customers. The platform offers seamless integration with any website using a simple code snippet,  real-time chat feature(manual and automated), a business metrics dashboard, and light/dark mode to enhance user experience.
@@ -19,12 +19,12 @@
 - [Spotify - Music App](https://spotify-app-eta.vercel.app/) - *React.js, Context API, Spotify API, JavaScript*
   - Developed a fully functional Spotify replica web application featuring real-time song access, dynamic content updates, and playback controls.
 
-## Skills
+## ⚡Skills
 - Java, JavaScript, TypeScript, HTML, CSS, SQL, C++, Python
 - React, Next.js,Spring Boot, AWS, Node.js
 - Tailwind CSS, RTK, REST APIs, MySQL, MongoDB, Data Structures & Algorithms
 
-## Reach me at-
+## 📩 Reach me at-
 vrushalitambat.contact@gmail.com
 
 <!--
