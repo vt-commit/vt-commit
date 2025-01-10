@@ -5,6 +5,11 @@
 
 🌟Let's collaborate and bring exciting ideas to life!
 
+<div align="center">
+  <p><img src="https://github-profile-trophy.vercel.app/?username=vt-commit&column=2" /></p>
+  <p><img src="https://kt-git-init-stats.vercel.app?user=vt-commit&hide_longest_streak=true&mode=weekly" alt="vt-commit" />  </p>  
+</div>
+
 ## 👩‍💻Projects
 
 - [Stella AI](https://stella.vrushalitambat.com/) - *Next.js, React.js, TypeScript, Open AI, Clerk, Neon, Stripe*
