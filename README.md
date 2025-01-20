@@ -3,7 +3,7 @@
 
 🎓 Currently, I'm pursuing an MS in Computer Science, set to graduate in May 2025. I'm always open to full-time opportunities and internships.
 
-🌟Let's collaborate and bring exciting ideas to life!
+🌟Let's collaborate and bring exciting ideas to life! 
 
 <div align="center">
   <p><img src="https://github-profile-trophy.vercel.app/?username=vt-commit&column=3&title=Commits,Experience,Joined2020" /></p>
