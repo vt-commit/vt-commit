@@ -7,7 +7,7 @@
 
 <div align="center">
   <p><img src="https://github-profile-trophy.vercel.app/?username=vt-commit&column=3&title=Commits,Experience,Joined2020" /></p>
-  <p><img src="https://kt-git-init-stats.vercel.app?user=vt-commit&hide_longest_streak=true&mode=weekly&theme=ocean-gradient&fire=EBEA38" alt="vt-commit" />  </p>  
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=vt-commit&hide_longest_streak=true&mode=weekly&theme=ocean-gradient&fire=EBEA38" alt="vt-commit" />  </p>  
 </div>
 
 
